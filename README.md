@@ -7,11 +7,15 @@ Labbet består av följande delmoment:
 <h2>INTRO</h2>
 
 
-<ol>Påminnelse HTML
-    <ul>
-        <li>HTML-Element (tag)</li>
-        <li>Dcoument Flow</li>
-    </ul>
-        
+<ol>
+    <li>Påminnelse HTML
+        <ul>
+            <li>HTML-Element (tag)</li>
+            <li>Document Flow</li>
+            <li>Class och ID</li>
+            <li>Inspector-verktyget</li>
+        </ul>
+    </li>
+    
     
 </ol>
