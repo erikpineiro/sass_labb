@@ -34,3 +34,27 @@ Labbet består av följande delmoment:
 </ol>
 
     
+<h2>SASS (syntactically awesome stylesheets)</h2>
+<ol>
+    <li>scss syntax</li>
+    <li>Interpreted into CSS</li>
+    <li>Mechanisms
+        <ul>
+            <li>Variables, Operators</li>
+            <li>Nesting</li>
+            <li>Mixins</li>
+            <li>Selector Inheritance</li>
+            <li>Import</li>
+            <li>Advanced (control directives: @if, @for, @each and @while, others)</li>
+            <li>http://sass-lang.com/guide</li>
+        </ul>
+    </li>
+    <li>När är det meningsfullt att använda SASS?</li>
+    <li>Övningar
+        <ol>
+            <li>Använd variabler så att varje div är 15px längre (height) än den dess förälder</li>
+            <li>Använd mixin så att varje div har en corner-radius 5px större än dess förälder</li>
+        </ol>
+    </li>
+</ol>
+
