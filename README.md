@@ -17,5 +17,20 @@ Labbet består av följande delmoment:
         </ul>
     </li>
     
+    <li>Påminnelse Styles
+        <ul>
+            <li>Inline Styles</li>
+            <li>CSS (Cascading Style Sheets)
+                <ul>
+                    <li>Selectorer</li>
+                    <li>Deklaration {property: value}</li>
+                </ul>
+            </li>
+            
+        </ul>
+    </li>
+    
     
 </ol>
+
+    
