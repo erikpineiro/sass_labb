@@ -50,11 +50,5 @@ Labbet består av följande delmoment:
         </ul>
     </li>
     <li>När är det meningsfullt att använda SASS?</li>
-    <li>Övningar
-        <ol>
-            <li>Använd variabler så att varje div är 15px längre (height) än den dess förälder</li>
-            <li>Använd mixin så att varje div har en corner-radius 5px större än dess förälder</li>
-        </ol>
-    </li>
 </ol>
 
