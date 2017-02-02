@@ -36,6 +36,7 @@ Labbet består av följande delmoment:
     
 <h2>SASS (syntactically awesome stylesheets)</h2>
 <ol>
+    <li>Varför behövs SASS?</li>
     <li>scss syntax</li>
     <li>Interpreted into CSS</li>
     <li>Mechanisms
@@ -49,6 +50,5 @@ Labbet består av följande delmoment:
             <li>http://sass-lang.com/guide</li>
         </ul>
     </li>
-    <li>När är det meningsfullt att använda SASS?</li>
 </ol>
 
